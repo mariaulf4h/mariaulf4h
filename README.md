@@ -37,6 +37,8 @@ As a data professional with extensive experience in advanced analytics and data 
   </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a> 
+  <a href="https://www.langchain.com" target="_blank"> <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="40" height="40"/>
+  </a> 
 </p>
 
 
