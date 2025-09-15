@@ -6,10 +6,7 @@ As a data professional with extensive experience in advanced analytics and data 
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left"> 
   <a href="https://azure.microsoft.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
