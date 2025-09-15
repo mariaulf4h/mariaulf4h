@@ -27,13 +27,15 @@ As a data professional with extensive experience in advanced analytics and data 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   <a href="https://huggingface.co/transformers/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/img/logo.png" alt="transformers" width="40" height="40"/> 
+    <img src="https://huggingface.co/blog/assets/59_transformers_philosophy/transformers.png" alt="transformers" width="40" height="40"/> 
   </a> 
   <a href="https://streamlit.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://www.bs-concepts.com/wp-content/uploads/2019/06/microsoft-power-bi-shop-logo-1.png" alt="powerbi" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a> 
 </p>
 
