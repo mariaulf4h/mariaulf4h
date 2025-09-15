@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Ulfah</h1>
-<h3 align="center">Data Science Aspirant in Machine Learning, Big Data, Cloud, and Interactive Data Visualization.</h3>
+<h3 align="center">Experienced Data Professional</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
